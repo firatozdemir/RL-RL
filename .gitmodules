@@ -1,0 +1,3 @@
+[submodule "rlgym-tools"]
+	path = rlgym-tools
+	url = https://github.com/RLGym/rlgym-tools.git
